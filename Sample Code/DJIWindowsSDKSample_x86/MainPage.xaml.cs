@@ -76,6 +76,12 @@ namespace DJIWindowsSDKSample
                     new KeyValuePair<string, Type>("Playback", typeof(Playback.PlaybackPage)),
                 },
             },
+            new SDKModuleSampleItems() {
+                header = "Autopilot", items = new List<KeyValuePair<String, Type>>()
+                {
+                    new KeyValuePair<string, Type>("Autopilot", typeof(Autopilot.Autopilot))
+                }
+            },
 
         };
 

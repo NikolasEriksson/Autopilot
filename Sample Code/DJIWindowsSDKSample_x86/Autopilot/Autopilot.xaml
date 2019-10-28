@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="DJIWindowsSDKSample.Autopilot.Autopilot"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DJIWindowsSDKSample.Autopilot"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid x:Name="RootGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0">
+                <TextBlock FontSize="36" Style="{StaticResource TitleTextBlockStyle}"> Autopilot</TextBlock>
+                <TextBlock Style="{StaticResource BodyTextBlockStyle}"> Here we will record the sequence that the autopilot should execute.</TextBlock>
+                <Button Margin="0,6,0,0" Name="setVideo" Click="SetCameraModeToRecord_Click">Video</Button>
+                <Button Margin="0,6,0,0" Name="startRecord" Click="StartRecordVideo_Click">Start record</Button>
+                <Button Margin="0,6,0,0" Name="Waypoint" Click="Waypoint_Click">Set waypoint</Button>
+                <Button Margin="0,6,0,0" Name="stopRecord" Click="StopRecordVideo_Click">Stop record</Button>
+                <Button Margin="0,6,0,0" Name="StartFlying" Click="StartAutoTakeOff">Start Auto Takeoff</Button> 
+                <Button Margin="0,6,0,0" Name="LoadMission" Click="LoadMissionAuto">Load mission</Button>
+                <Button Margin="0,6,0,0" Name="UploadMission" Click="UploadLoadMissionAuto">Upload Waypoints</Button>
+                <Button Margin="0,6,0,0" Name="StartMission" Click="StartMissionAuto">Start mission</Button>
+                <Button Margin="0,6,0,0" Name="StartLanding" Click="AutoLanding">Start Auto Landing</Button>
+                <TextBlock 
+                     Name="Output"
+                     ScrollViewer.VerticalScrollBarVisibility="Visible"
+                     MaxHeight="200"
+                     TextWrapping="Wrap"/>
+            </StackPanel>
+
+            <SwapChainPanel x:Name="swapChainPanel" Visibility="Visible" Grid.Row="1" Margin="0, 10, 0, 0" />
+
+
+        </Grid>
+
+    </Grid>
+</Page>

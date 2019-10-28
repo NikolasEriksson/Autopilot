@@ -50,3 +50,6 @@ Carthage/Build
 
 build
 Output
+/.vs/Windows-SDK/v15
+/.vs
+/Sample Code/.vs/DJIWindowsSDKSample/v15

@@ -1,0 +1,1 @@
+C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x64\obj\x86\Debug\DJIWindowsSDKSample_x64.csprojAssemblyReference.cache

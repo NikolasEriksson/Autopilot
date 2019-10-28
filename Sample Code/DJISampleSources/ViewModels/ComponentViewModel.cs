@@ -1,7 +1,6 @@
 ﻿using DJI.WindowsSDK;
 using DJIUWPSample.Commands;
 using DJIUWPSample.ViewModels;
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
