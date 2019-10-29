@@ -202,7 +202,6 @@ namespace DJIWindowsSDKSample.Autopilot
                 {
                     Output.Text = "Start Recording video successfully";
                     var location = await DJISDKManager.Instance.ComponentManager.GetFlightControllerHandler(0, 0).GetAircraftLocationAsync();
-                    var setLocation = DJIWindowsSDKSample.ViewModels.AutopilotViewModel.Instance.InitDumpWaypoint(location.value.Value.latitude, location.value.Value.longitude);
                     SetWaypoint(location.value.Value.latitude, location.value.Value.longitude);
                 }
             }
@@ -225,7 +224,6 @@ namespace DJIWindowsSDKSample.Autopilot
                 {
                     Output.Text = "Stop record video successfully";
                     var location = await DJISDKManager.Instance.ComponentManager.GetFlightControllerHandler(0, 0).GetAircraftLocationAsync();
-                    var setLocation = DJIWindowsSDKSample.ViewModels.AutopilotViewModel.Instance.InitDumpWaypoint(location.value.Value.latitude, location.value.Value.longitude);
                     SetWaypoint(location.value.Value.latitude, location.value.Value.longitude);
                     WaypointPattern(Waypoints);
                 }

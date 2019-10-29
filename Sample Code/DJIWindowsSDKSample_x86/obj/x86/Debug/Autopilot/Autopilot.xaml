@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="DJIWindowsSDKSample.Autopilot.Autopilot"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DJIWindowsSDKSample.Autopilot"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid x:ConnectionId='2' x:Name="RootGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0">
+                <TextBlock FontSize="36" Style="{StaticResource TitleTextBlockStyle}"> Autopilot</TextBlock>
+                <TextBlock Style="{StaticResource BodyTextBlockStyle}"> Here we will record the sequence that the autopilot should execute.</TextBlock>
+                <Button x:ConnectionId='4' Margin="0,6,0,0" Name="setVideo"                                    >Video</Button>
+                <Button x:ConnectionId='5' Margin="0,6,0,0" Name="startRecord"                               >Start record</Button>
+                <Button x:ConnectionId='6' Margin="0,6,0,0" Name="Waypoint"                       >Set waypoint</Button>
+                <Button x:ConnectionId='7' Margin="0,6,0,0" Name="stopRecord"                              >Stop record</Button>
+                <Button x:ConnectionId='8' Margin="0,6,0,0" Name="StartFlying"                         >Start Auto Takeoff</Button> 
+                <Button x:ConnectionId='9' Margin="0,6,0,0" Name="LoadMission"                        >Load mission</Button>
+                <Button x:ConnectionId='10' Margin="0,6,0,0" Name="UploadMission"                              >Upload Waypoints</Button>
+                <Button x:ConnectionId='11' Margin="0,6,0,0" Name="StartMission"                         >Start mission</Button>
+                <Button x:ConnectionId='12' Margin="0,6,0,0" Name="StartLanding"                    >Start Auto Landing</Button>
+                <TextBlock x:ConnectionId='13' 
+                     Name="Output"
+                     ScrollViewer.VerticalScrollBarVisibility="Visible"
+                     MaxHeight="200"
+                     TextWrapping="Wrap"/>
+            </StackPanel>
+
+            <SwapChainPanel x:ConnectionId='3' x:Name="swapChainPanel" Visibility="Visible" Grid.Row="1" Margin="0, 10, 0, 0" />
+
+
+        </Grid>
+
+    </Grid>
+</Page>
+
