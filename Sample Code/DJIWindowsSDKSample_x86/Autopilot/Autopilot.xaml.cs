@@ -32,7 +32,7 @@ namespace DJIWindowsSDKSample.Autopilot
         public List<Waypoint> Waypoints = new List<Waypoint>();
         public WaypointMission mission = new WaypointMission();
         int i = 1;
-        
+
 
         public Autopilot()
         {

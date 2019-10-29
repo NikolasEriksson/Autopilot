@@ -1,2 +1,2 @@
-C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIVideoParser\DJIVideoParser.vcxproj;x86
-C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\DJIWindowsSDKSample_x86.csproj;x86
+C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIVideoParser\DJIVideoParser.vcxproj;x86
+C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\DJIWindowsSDKSample_x86.csproj;x86

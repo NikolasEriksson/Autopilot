@@ -15,7 +15,7 @@
             </Grid.RowDefinitions>
             <StackPanel>
                 <TextBlock FontSize="36" Style="{StaticResource TitleTextBlockStyle}"> ComponentHandler</TextBlock>
-                <TextBlock Style="{StaticResource BodyTextBlockStyle}"> Component handlers are designed for providing interfaces for the components in the aircraft. Using the handlers, you are able to get the real time data form the aircraft, set some setting and let the aircraft do some actions like takeoff. </TextBlock>
+                <TextBlock Style="{StaticResource BodyTextBlockStyle}"> Component handlers are designed for providing interfaces for the components in the aircraft. Using the handlers, you are able to get the real time data form the aircraft, set some setting and let the aircraft do some actions like takeoff.</TextBlock>
             </StackPanel>
             <ScrollViewer Margin="8,10,0,0" Grid.Row="1">
                 <StackPanel>
@@ -32,11 +32,11 @@
                                 <TextBlock  Text="{Binding AircraftVelocityXString}" />
                             </StackPanel>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock>Aircraft Velocity in Y : </TextBlock>
+                                <TextBlock>Aircraft Velocity in Y :</TextBlock>
                                 <TextBlock Text="{Binding AircraftVelocityYString}" />
                             </StackPanel>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock>Aircraft Velocity in Z : </TextBlock>
+                                <TextBlock>Aircraft Velocity in Z :</TextBlock>
                                 <TextBlock Text="{Binding AircraftVelocityZString}" />
                             </StackPanel>
                         </StackPanel>
@@ -76,7 +76,7 @@
                 </StackPanel>
 
             </ScrollViewer>
-           
+
         </Grid>
     </Grid>
 </Page>

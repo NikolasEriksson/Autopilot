@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>65ef6da9-9190-469d-a9c0-01be370ac150</PackageIdentityName>
     <PackageIdentityPublisher>CN=DJI</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.exe">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.exe">
       <PackagePath>entrypoint\DJIWindowsSDKSample.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\microsoft.ui.xaml\2.0.180916002-prerelease\runtimes\win10-x86\native\Microsoft.UI.Xaml.dll">
@@ -523,13 +523,13 @@
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.4\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsSDK.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsSDK.dll">
       <PackagePath>DJIWindowsSDK.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.dll">
       <PackagePath>DJIWindowsWrapper.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.dll">
       <PackagePath>DJIVideoParser.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\microsoft.ui.xaml\2.0.180916002-prerelease\runtimes\win10-x86\native\Microsoft.UI.Xaml\Assets\NoiseAsset_256x256_PNG.png">
@@ -538,112 +538,112 @@
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\microsoft.ui.xaml\2.0.180916002-prerelease\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.winmd">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.winmd">
       <PackagePath>DJIVideoParser.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.winmd">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.winmd">
       <PackagePath>DJIWindowsWrapper.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\phantom.svg">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\phantom.svg">
       <PackagePath>Assets\phantom.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\waypoint.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\waypoint.png">
       <PackagePath>Assets\waypoint.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avcodec-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avcodec-58.dll">
       <PackagePath>avcodec-58.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avdevice-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avdevice-58.dll">
       <PackagePath>avdevice-58.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avfilter-7.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avfilter-7.dll">
       <PackagePath>avfilter-7.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avformat-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avformat-58.dll">
       <PackagePath>avformat-58.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avutil-56.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avutil-56.dll">
       <PackagePath>avutil-56.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\pthread_dll.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\pthread_dll.dll">
       <PackagePath>pthread_dll.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swresample-3.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swresample-3.dll">
       <PackagePath>swresample-3.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swscale-5.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swscale-5.dll">
       <PackagePath>swscale-5.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.xr.xml">
       <PackagePath>DJIWindowsSDKSample.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\ComponentHandling\ComponentHandingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\ComponentHandling\ComponentHandingPage.xbf">
       <PackagePath>ComponentHandling\ComponentHandingPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJISDKInitializing\ActivatingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJISDKInitializing\ActivatingPage.xbf">
       <PackagePath>DJISDKInitializing\ActivatingPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Flysafe\FlyzonePage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Flysafe\FlyzonePage.xbf">
       <PackagePath>Flysafe\FlyzonePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\FPV\FPVPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\FPV\FPVPage.xbf">
       <PackagePath>FPV\FPVPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Playback\Playback.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Playback\Playback.xbf">
       <PackagePath>Playback\Playback.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\UserAccount\UserAccountPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\UserAccount\UserAccountPage.xbf">
       <PackagePath>UserAccount\UserAccountPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\SimulatorPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\SimulatorPage.xbf">
       <PackagePath>WaypointHandling\SimulatorPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\WaypointMissionPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\WaypointMissionPage.xbf">
       <PackagePath>WaypointHandling\WaypointMissionPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Autopilot\Autopilot.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Autopilot\Autopilot.xbf">
       <PackagePath>Autopilot\Autopilot.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libEGL.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libEGL.dll">
       <PackagePath>libEGL.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libGLESv2.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libGLESv2.dll">
       <PackagePath>libGLESv2.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
@@ -655,10 +655,10 @@
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\microsoft.ui.xaml\2.0.180916002-prerelease\runtimes\win10-x86\native\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png">
       <PackagePath>Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\DJIWindowsSDKSample.exe">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\DJIWindowsSDKSample.exe">
       <PackagePath>DJIWindowsSDKSample.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

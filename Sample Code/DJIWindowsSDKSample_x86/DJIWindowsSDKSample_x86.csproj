@@ -176,8 +176,8 @@
     </ApplicationDefinition>
     <Page Include="..\DJISampleSources\ComponentHandling\ComponentHandingPage.xaml">
       <Link>ComponentHandling\ComponentHandingPage.xaml</Link>
-      <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="..\DJISampleSources\DJISDKInitializing\ActivatingPage.xaml">
       <Link>DJISDKInitializing\ActivatingPage.xaml</Link>

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>65ef6da9-9190-469d-a9c0-01be370ac150</PackageIdentityName>
     <PackageIdentityPublisher>CN=DJI</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>AB4BF03E66651D30D3628E19E9A9F44EE2EBA56AFCDEB3A54F405EB7A4B20751</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.wsdk.sample_1.0.0.0_x86__82w491b8nw3hm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.wsdk.sample_82w491b8nw3hm!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-29T10:02:52.762</Modified>
+      <Modified>2019-10-29T13:35:13.725</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.exe">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.exe">
       <PackagePath>entrypoint\DJIWindowsSDKSample.exe</PackagePath>
-      <Modified>2019-10-29T10:02:46.545</Modified>
+      <Modified>2019-10-29T13:35:12.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nikol\.nuget\packages\microsoft.ui.xaml\2.0.180916002-prerelease\runtimes\win10-x86\native\Microsoft.UI.Xaml.dll">
       <PackagePath>Microsoft.UI.Xaml.dll</PackagePath>
@@ -698,15 +698,15 @@
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2017-11-20T15:22:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsSDK.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsSDK.dll">
       <PackagePath>DJIWindowsSDK.dll</PackagePath>
       <Modified>2019-09-30T08:49:01.508</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.dll">
       <PackagePath>DJIWindowsWrapper.dll</PackagePath>
       <Modified>2019-09-30T08:49:01.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.dll">
       <PackagePath>DJIVideoParser.dll</PackagePath>
       <Modified>2019-09-30T08:51:00.098</Modified>
     </AppxPackagedFile>
@@ -718,145 +718,145 @@
       <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2018-09-17T01:50:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.winmd">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\Debug\DJIVideoParser\DJIVideoParser.winmd">
       <PackagePath>DJIVideoParser.winmd</PackagePath>
       <Modified>2019-09-30T08:50:59.325</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.winmd">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\WSDK Libraries\SDK dll x86\DJIWindowsWrapper.winmd">
       <PackagePath>DJIWindowsWrapper.winmd</PackagePath>
       <Modified>2019-09-30T08:49:01.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\phantom.svg">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\phantom.svg">
       <PackagePath>Assets\phantom.svg</PackagePath>
       <Modified>2019-09-30T08:49:00.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\waypoint.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\waypoint.png">
       <PackagePath>Assets\waypoint.png</PackagePath>
       <Modified>2019-09-30T08:49:00.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2019-09-30T08:49:00.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.748</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.749</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.749</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-09-30T08:49:00.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avcodec-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avcodec-58.dll">
       <PackagePath>avcodec-58.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avdevice-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avdevice-58.dll">
       <PackagePath>avdevice-58.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avfilter-7.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avfilter-7.dll">
       <PackagePath>avfilter-7.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avformat-58.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avformat-58.dll">
       <PackagePath>avformat-58.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avutil-56.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\avutil-56.dll">
       <PackagePath>avutil-56.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\pthread_dll.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\pthread_dll.dll">
       <PackagePath>pthread_dll.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swresample-3.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swresample-3.dll">
       <PackagePath>swresample-3.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swscale-5.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\swscale-5.dll">
       <PackagePath>swscale-5.dll</PackagePath>
       <Modified>2019-09-30T08:49:00.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-09-30T08:49:00.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJIWindowsSDKSample.xr.xml">
       <PackagePath>DJIWindowsSDKSample.xr.xml</PackagePath>
       <Modified>2019-10-16T10:23:23.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\ComponentHandling\ComponentHandingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\ComponentHandling\ComponentHandingPage.xbf">
       <PackagePath>ComponentHandling\ComponentHandingPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.714</Modified>
+      <Modified>2019-10-29T13:35:11.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJISDKInitializing\ActivatingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\DJISDKInitializing\ActivatingPage.xbf">
       <PackagePath>DJISDKInitializing\ActivatingPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.785</Modified>
+      <Modified>2019-10-29T13:35:11.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Flysafe\FlyzonePage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Flysafe\FlyzonePage.xbf">
       <PackagePath>Flysafe\FlyzonePage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.785</Modified>
+      <Modified>2019-10-29T13:35:11.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\FPV\FPVPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\FPV\FPVPage.xbf">
       <PackagePath>FPV\FPVPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.786</Modified>
+      <Modified>2019-10-29T13:35:11.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Playback\Playback.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Playback\Playback.xbf">
       <PackagePath>Playback\Playback.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.787</Modified>
+      <Modified>2019-10-29T13:35:11.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\UserAccount\UserAccountPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\UserAccount\UserAccountPage.xbf">
       <PackagePath>UserAccount\UserAccountPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.788</Modified>
+      <Modified>2019-10-29T13:35:11.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\SimulatorPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\SimulatorPage.xbf">
       <PackagePath>WaypointHandling\SimulatorPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.789</Modified>
+      <Modified>2019-10-29T13:35:11.843</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\WaypointMissionPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\WaypointHandling\WaypointMissionPage.xbf">
       <PackagePath>WaypointHandling\WaypointMissionPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.774</Modified>
+      <Modified>2019-10-29T13:35:11.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.784</Modified>
+      <Modified>2019-10-29T13:35:11.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Autopilot\Autopilot.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Autopilot\Autopilot.xbf">
       <PackagePath>Autopilot\Autopilot.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.790</Modified>
+      <Modified>2019-10-29T13:35:11.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-10-29T10:02:45.791</Modified>
+      <Modified>2019-10-29T13:35:11.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libEGL.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libEGL.dll">
       <PackagePath>libEGL.dll</PackagePath>
       <Modified>2016-12-28T12:10:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libGLESv2.dll">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\packages\ANGLE.WindowsStore.2.1.13\build\native\..\..\bin\UAP\Win32\libGLESv2.dll">
       <PackagePath>libGLESv2.dll</PackagePath>
       <Modified>2016-12-28T12:10:50.000</Modified>
     </AppxPackagedFile>
@@ -872,13 +872,13 @@
       <PackagePath>Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png</PackagePath>
       <Modified>2018-09-17T01:50:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-10-29T10:02:50.924</Modified>
+      <Modified>2019-10-29T13:35:13.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nikol\Source\Repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\DJIWindowsSDKSample.exe">
+    <AppxPackagedFile Include="C:\Users\nikol\source\repos\dji-sdk\Windows-SDK\Sample Code\DJIWindowsSDKSample_x86\bin\x86\Debug\Core\DJIWindowsSDKSample.exe">
       <PackagePath>DJIWindowsSDKSample.exe</PackagePath>
-      <Modified>2019-10-29T10:02:52.698</Modified>
+      <Modified>2019-10-29T13:35:13.719</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
