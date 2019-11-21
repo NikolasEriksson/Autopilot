@@ -14,3 +14,11 @@ Fourth when the APP is up and running you need to enter an activation code, see 
 
 Then its all done!
 
+How to use the software:
+
+* First you need to connect the handheld device with your computer.
+* Second you need to start the handheld device
+* Third you need to start the drone
+* Fourth you need to start the software
+
+Once it's all up and running you enter the activation code and click on the buttons to either start recording, add waypoint and so on.
